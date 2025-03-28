@@ -213,3 +213,11 @@ document.querySelectorAll('.mdn-Text').forEach((menu) => {
 ![www claro com br_ (10)](https://github.com/user-attachments/assets/bb75fc59-89cc-4fe4-a497-8ac846c16bf4)
 ### Depois:
 ![www claro com br_ (11)](https://github.com/user-attachments/assets/5aaf1173-11c3-478f-afad-f76bad3ac30a)
+
+## Referências
+<ul>
+  <li>Como o Chrome DevTools ajuda na defesa contra ataques auto-XSS.  |  Blog  |  Chrome for Developers. Disponível em: https://developer.chrome.com/blog/self-xss?hl=pt-br.</li>
+  <li>Mudar o texto de um span usando JavaScript. Hora de Codar. Disponível em: https://webmail.horadecodar.com.br/mudar-o-texto-de-um-span-usando-javascript/.</li>
+  <li>JavaScript Array forEach(). W3Schools. Disponível em: https://www.w3schools.com/jsref/jsref_foreach.asp</li>
+  <li>Como é possível trocar li de posição?. Stack Overflow. Disponível em: https://pt.stackoverflow.com/questions/65705/como-%C3%A9-poss%C3%ADvel-trocar-li-de-posi%C3%A7%C3%A3o</li>
+</ul>
